@@ -1,4 +1,4 @@
-#Fri Dec 02 23:05:55 IST 2016
+#Sat Dec 03 11:46:12 IST 2016
 base.0=/home/vedipen/lvpei/newone/Corneal-Topography/Abb2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_17a16dfa41ccd12bc3b669910a9fa8c384980031
 renamed.1=classes2.dex
 renamed.0=classes.dex
